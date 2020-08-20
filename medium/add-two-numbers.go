@@ -8,7 +8,7 @@ type ListNode struct {
 
 /**
  * addTwoNumbers adding two list of 1-digit integers. Numbers are reversed in list (e.g. 123 = 3 -> 2 -> 1)
- * Problems: https://leetcode.com/problems/add-two-numbers/submissions/
+ * Problems: https://leetcode.com/problems/add-two-numbers/
  */
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	// isMoreThanTen storage for additional 1 to next digit
