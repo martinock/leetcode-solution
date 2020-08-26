@@ -1,2 +1,3 @@
 # Medium Problems
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers.go))
+2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-substring-without-repeating.go))
