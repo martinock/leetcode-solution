@@ -28,7 +28,7 @@ public:
     }
 };
 
-// BETTER SOLUTION(?):
+// BETTER SOLUTION:
 // class Solution {
 // public:
 //     TreeNode* invertTree(TreeNode* root) {
