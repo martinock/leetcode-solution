@@ -1,5 +1,6 @@
 # Medium Problems
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers.go))
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/binary-tree-inorder-traversal.cpp))
+- [Jump Game](https://leetcode.com/problems/jump-game/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/jump-game.cpp))
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-substring-without-repeating.go))
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/reverse-linked-list-ii.cpp))

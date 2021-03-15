@@ -4,6 +4,7 @@
 - [Inverted Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/inverted-binary-tree.cpp))
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/linked-list-cycle.cpp))
 - [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/maximum-subarray.cpp))
+- [Middle Of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/middle-of-linked-list.cpp))
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/reverse-linked-list.cpp))
 - [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/reverse-only-letters.cpp))
 - [Same Tree](https://leetcode.com/problems/same-tree/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/same-tree.cpp))
