@@ -13,3 +13,4 @@
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/reverse-linked-list-ii.cpp))
 - [Sort List](https://leetcode.com/problems/sort-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/sort-list.cpp))
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/unique-paths.cpp))
+- [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/unique-paths-ii.cpp))
