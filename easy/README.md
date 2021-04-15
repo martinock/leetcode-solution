@@ -11,3 +11,4 @@
 - [Same Tree](https://leetcode.com/problems/same-tree/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/same-tree.cpp))
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/search-insert-position.cpp))
 - [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/two-sum.go))
+- [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/valid-mountain-array.cpp))
