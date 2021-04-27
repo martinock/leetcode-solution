@@ -9,6 +9,7 @@
 - [Jump Game](https://leetcode.com/problems/jump-game/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/jump-game.cpp))
 - [Linked List In Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/linked-list-in-binary-tree.cpp))
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-substring-without-repeating.go))
+- [Longest ZigZag Path in A Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-zigzag-path-in-a-binary-tree.cpp))
 - [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/number-of-subsequences-that-satisfy-the-given-sum-condition.cpp))
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/palindromic-substrings.cpp))
 - [Remove n-th Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/remove-nth-node-from-end-of-list.cpp))
