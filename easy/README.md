@@ -1,5 +1,6 @@
 # Easy Problems
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/balanced-binary-tree.cpp))
+- [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/can-make-arithmetic-progression-from-sequence.cpp))
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/climbing-stairs.cpp))
 - [Inverted Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/inverted-binary-tree.cpp))
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/linked-list-cycle.cpp))
