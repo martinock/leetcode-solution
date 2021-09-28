@@ -7,6 +7,7 @@
 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/evaluate-reverse-polish-notation.cpp))
 - [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ([Soltuion](https://github.com/martinock/leetcode-solution/blob/master/medium/flatten-binary-tree-to-linked-list.cpp))
 - [Jump Game](https://leetcode.com/problems/jump-game/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/jump-game.cpp))
+- [Largest Number](https://leetcode.com/problems/largest-number/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/largest-number.go))
 - [Linked List In Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/linked-list-in-binary-tree.cpp))
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-substring-without-repeating.go))
 - [Longest ZigZag Path in A Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-zigzag-path-in-a-binary-tree.cpp))
