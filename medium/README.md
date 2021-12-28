@@ -19,5 +19,6 @@
 - [Rotate Function](https://leetcode.com/problems/rotate-function/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/rotate-function.cpp))
 - [Sort Colors](https://leetcode.com/problems/sort-colors/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/sort-colors.cpp))
 - [Sort List](https://leetcode.com/problems/sort-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/sort-list.cpp))
+- [The Number of Weak Characters in The Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/the-number-of-weak-characters-in-the-game))
 - [Unique Paths](https://leetcode.com/problems/unique-paths/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/unique-paths.cpp))
 - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/unique-paths-ii.cpp))
