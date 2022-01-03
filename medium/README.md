@@ -1,4 +1,5 @@
 # Medium Problems
+- [3 Sum](https://leetcode.com/problems/3sum/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/3sum.go))
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers.go))
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers-ii.cpp))
 - [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) ([Solution]((https://github.com/martinock/leetcode-solution/blob/master/medium/all-elements-in-two-binary-search-trees.cpp))
