@@ -1,4 +1,5 @@
 # Easy Problems
+- [Add Strings](https://leetcode.com/problems/add-strings/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/add-strings.go))
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/balanced-binary-tree.cpp))
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/binary-tree-paths.go))
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/can-make-arithmetic-progression-from-sequence.cpp))
@@ -6,6 +7,7 @@
 - [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/design-hashmap.go))
 - [Inverted Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/inverted-binary-tree.cpp))
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/linked-list-cycle.cpp))
+- [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/longest-palindrome.go))
 - [Majority Element](https://leetcode.com/problems/majority-element/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/majority-element.go))
 - [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/maximum-subarray.cpp))
 - [Middle Of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/middle-of-linked-list.cpp))
