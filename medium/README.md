@@ -17,6 +17,7 @@
 - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) ([Solution](https://leetcode.com/problems/merge-intervals/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/non-overlapping-intervals.go))
 - [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/number-of-subsequences-that-satisfy-the-given-sum-condition.cpp))
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/palindromic-substrings.cpp))
+- [Partition Labels](https://leetcode.com/problems/partition-labels/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/partition-labels.go))
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/product-of-array-except-self.go))
 - [Reorder List](https://leetcode.com/problems/reorder-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/reorder-list.cpp))
 - [Remove n-th Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/remove-nth-node-from-end-of-list.cpp))

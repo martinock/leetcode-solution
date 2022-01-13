@@ -21,3 +21,4 @@
 - [Single Number](https://leetcode.com/problems/single-number/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/single-number.go))
 - [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/two-sum.go))
 - [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/valid-mountain-array.cpp))
+- [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/word-pattern.go))
