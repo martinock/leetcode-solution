@@ -5,6 +5,7 @@
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/can-make-arithmetic-progression-from-sequence.cpp))
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/climbing-stairs.cpp))
 - [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/design-hashmap.go))
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/intersection-of-two-linked-lists.java))
 - [Inverted Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/inverted-binary-tree.cpp))
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/linked-list-cycle.cpp))
 - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/longest-palindrome.go))
