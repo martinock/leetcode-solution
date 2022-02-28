@@ -14,6 +14,7 @@
 - [Largest Number](https://leetcode.com/problems/largest-number/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/largest-number.go))
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/linked-list-cycle-ii.java))
 - [Linked List In Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/linked-list-in-binary-tree.cpp))
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-palindromic-substring.java))
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-substring-without-repeating.go))
 - [Longest ZigZag Path in A Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-zigzag-path-in-a-binary-tree.cpp))
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/merge-intervals.go))
