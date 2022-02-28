@@ -1,6 +1,6 @@
 # Medium Problems
 - [3 Sum](https://leetcode.com/problems/3sum/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/3sum.go))
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers.go))
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers.go) [Better Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers.java))
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/add-two-numbers-ii.cpp))
 - [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) ([Solution]((https://github.com/martinock/leetcode-solution/blob/master/medium/all-elements-in-two-binary-search-trees.cpp))
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/binary-tree-inorder-traversal.cpp))
@@ -12,6 +12,7 @@
 - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/increasing-triplet-subsequence.go))
 - [Jump Game](https://leetcode.com/problems/jump-game/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/jump-game.cpp))
 - [Largest Number](https://leetcode.com/problems/largest-number/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/largest-number.go))
+- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/linked-list-cycle-ii.java))
 - [Linked List In Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/linked-list-in-binary-tree.cpp))
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-substring-without-repeating.go))
 - [Longest ZigZag Path in A Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/longest-zigzag-path-in-a-binary-tree.cpp))
@@ -22,6 +23,7 @@
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/palindromic-substrings.cpp))
 - [Partition Labels](https://leetcode.com/problems/partition-labels/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/partition-labels.go))
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/product-of-array-except-self.go))
+- [Repeated DNA Sequence](https://leetcode.com/problems/repeated-dna-sequences/) ([Solution]((https://github.com/martinock/leetcode-solution/blob/master/medium/repeated-dna-sequence.java))
 - [Reorder List](https://leetcode.com/problems/reorder-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/reorder-list.cpp))
 - [Remove n-th Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/remove-nth-node-from-end-of-list.cpp))
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/reverse-linked-list-ii.cpp))
