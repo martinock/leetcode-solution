@@ -7,6 +7,8 @@
 - [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/deepest-leaves-sum.cpp))
 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/evaluate-reverse-polish-notation.cpp))
 - [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/find-original-array-from-doubled-array.java))
+- [Find The Winner](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/find-the-winner.java))
+- [Finding Pairs With A Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/finding-pairs-with-a-certain-sum.go))
 - [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ([Soltuion](https://github.com/martinock/leetcode-solution/blob/master/medium/flatten-binary-tree-to-linked-list.cpp))
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/group-anagrams.go))
 - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/medium/increasing-triplet-subsequence.go))
