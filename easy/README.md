@@ -12,6 +12,7 @@
 - [Majority Element](https://leetcode.com/problems/majority-element/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/majority-element.go))
 - [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/maximum-subarray.cpp))
 - [Middle Of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/middle-of-linked-list.cpp))
+- [Min Stack](https://leetcode.com/problems/min-stack/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/min-stack.java))
 - [Number Complement](https://leetcode.com/problems/number-complement/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/number-complement.cpp))
 - [Pascal Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/pascal-triangle-ii.go))
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/range-sum-of-bst.cpp))
