@@ -4,6 +4,7 @@
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/binary-tree-paths.go))
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/can-make-arithmetic-progression-from-sequence.cpp))
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/climbing-stairs.cpp))
+- [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/convert-sorted-array-to-binary-search-tree.java))
 - [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/design-hashmap.go))
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/intersection-of-two-linked-lists.java))
 - [Inverted Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ([Solution](https://github.com/martinock/leetcode-solution/blob/master/easy/inverted-binary-tree.cpp))
